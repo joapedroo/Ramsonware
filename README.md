@@ -1,0 +1,2 @@
+# Ramsonware
+Ransomware-simples
