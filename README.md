@@ -2,10 +2,11 @@ Ransomware README
 
 Versão: 20.1.1
 
-Este código é um exemplo de implementação de ransomware em C++, que ilustra várias técnicas de criptografia, manipulação de arquivos e comunicação com servidores remotos. No entanto, a utilização deste código para qualquer finalidade maliciosa é estritamente proibida e ilegal.
+Este código é um exemplo simples da versão original do Ransomware, que ilustra várias técnicas de criptografia, manipulação de arquivos e comunicação com servidores remotos. No entanto, a utilização deste código para qualquer finalidade maliciosa é estritamente proibida e ilegal.
 
-O ransomware é um tipo de malware que sequestra os arquivos de um sistema, criptografando-os e exigindo um pagamento (normalmente em criptomoedas) para fornecer a chave de descriptografia. O ransomware apresentado neste código simula o comportamento de um ransomware real e tem fins educacionais apenas. Não deve ser usado de maneira maliciosa.
-Compilação e Execução
+O ransomware é um tipo de malware que sequestra os arquivos de um sistema, criptografando-os e exigindo um pagamento (normalmente em criptomoedas) para fornecer a chave de descriptografia. O ransomware-simple.cpp apresentado neste código simula um comportamento mais simples baseado na verção original do ransomware (version 20.1.1) protegido pelo autor. O código original não deve ser usado de maneira maliciosa.
+
+Compilação e Execução do código original
 
 Para compilar e executar o ransomware, você precisará de um ambiente de desenvolvimento C++ configurado com as bibliotecas mencionadas no código. Além disso, ajuste os caminhos de arquivo conforme necessário. Siga estas etapas:
 
@@ -16,7 +17,7 @@ Para compilar e executar o ransomware, você precisará de um ambiente de desenv
     Execute o executável em um ambiente controlado e seguro para fins educacionais.
 
 
-Bibliotecas Utilizadas
+Bibliotecas Utilizadas no código original
 
 O código utiliza diversas bibliotecas para realizar as operações necessárias:
 
@@ -30,7 +31,7 @@ O código utiliza diversas bibliotecas para realizar as operações necessárias
     wincrypt.h: Biblioteca para criptografia de dados.
     intrin.h: Biblioteca para funções intrínsecas.
 
-Funcionalidades
+Funcionalidades no código original
 
 O ransomware implementado possui as seguintes funcionalidades:
 
