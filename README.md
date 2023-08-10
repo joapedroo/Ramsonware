@@ -1,10 +1,11 @@
-Ransomware README
-
-Versão: 20.1.1
+Ransomware Simples
 
 Este código é um exemplo simples da versão original do Ransomware, que ilustra várias técnicas de criptografia, manipulação de arquivos e comunicação com servidores remotos. No entanto, a utilização deste código para qualquer finalidade maliciosa é estritamente proibida e ilegal.
 
-O ransomware é um tipo de malware que sequestra os arquivos de um sistema, criptografando-os e exigindo um pagamento (normalmente em criptomoedas) para fornecer a chave de descriptografia. O ransomware-simple.cpp apresentado neste código simula um comportamento mais simples baseado na verção original do ransomware (version 20.1.1) protegido pelo autor. O código original não deve ser usado de maneira maliciosa.
+O ransomware é um tipo de malware que sequestra os arquivos de um sistema, criptografando-os e exigindo um pagamento (normalmente em criptomoedas) para fornecer a chave de descriptografia. O ransomware-simple.cpp apresentado neste código simula um comportamento mais simples baseado na verção original do ransomware (version 20.1.1) protegido pelo autor. O código não deve ser usado de maneira maliciosa.
+
+___________________________________________________________________________________________________________________________________
+Ramsonware Versão: 20.1.1
 
 Compilação e Execução do código original
 
